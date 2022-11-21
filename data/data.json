@@ -1,0 +1,1186 @@
+{
+    "films": [
+      {
+        "film_page_name": "azuolo-sirdis-heart-of-oak",
+        "title": "Ąžuolo širdis (Heart of Oak)",
+        "id": "3485",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/MjBEQ0ZD/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/heartoak-1080x1920px-digitalposter-04_ad0410daea.jpg",
+        "cert_image": "/-/media/images/certificates/lt-v.png",
+        "cert_desc": null,
+        "synopsis_short": "Ąžuolas Lietuvoje (ir daugybėje kitų šalių) nuo seno laikomas miškų karaliumi. Ir ne veltui – šie medžiai, paplitę šiauriniame Žemės pusrutulyje, simbolizuoja tvirtybę, galią ir ilgaamžiškumą. Pavyzdžiui, manoma, jog mūsiškio Stelmužės ąžuolo amžius gali siekti pusantro tūkstančio metų – kitaip tariant, jis yra vienas seniausių ąžuolų visoje Europoje.",
+        "info_release": "18.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "80 min.",
+        "info_age": "V",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/azuolo-sirdis-heart-of-oak/trailer",
+        "filmlink": "/filmai/azuolo-sirdis-heart-of-oak",
+        "timeslink": "/filmai/azuolo-sirdis-heart-of-oak/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Dokumentinis",
+              "url": "/rusis/dokumentinis",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "1",
+        "rank_value": "9",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "PREMJERA",
+              "class": "promo-label--promo",
+              "short_name": "PREMJERA"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-18T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "22",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3485",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "bilietas-i-roju-ticket-to-paradise",
+        "title": "Bilietas į Rojų (Ticket to Paradise)",
+        "id": "3392",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/NURCN0VG/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/bilietas-i-roju-1080x1920_9551c10cc6.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-13.png",
+        "cert_desc": null,
+        "synopsis_short": "„Oskaro“ laureatai George Clooney ir Julia Roberts vėl susitinka didžiajame kino ekrane kaip buvę sutuoktiniai, kurių bendra misija – keliauti į Balį ir neleisti spontaniškai įsimylėjusiai dukrai padaryti tą pačią klaidą, kurią, jų manymu, prieš 25-erius metus padarė jie patys.",
+        "info_release": "16.09.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "104 min.",
+        "info_age": "N-13",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/bilietas-i-roju-ticket-to-paradise/trailer",
+        "filmlink": "/filmai/bilietas-i-roju-ticket-to-paradise",
+        "timeslink": "/filmai/bilietas-i-roju-ticket-to-paradise/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Komedija",
+              "url": "/rusis/komedija",
+              "highlighted": false
+            },
+            {
+              "name": "Romantinis",
+              "url": "/rusis/romantinis",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "20",
+        "rank_value": "7,15",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-09-16T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "88",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3392",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": "https://media.multikino.lt/uploads/images/films/8z42-d003-00004r_fc2c96a9a3.jpg"
+      },
+      {
+        "film_page_name": "blefuotojas-poker-face",
+        "title": "Blefuotojas (Poker Face)",
+        "id": "3475",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/NDE4Q0M2/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/blefuuotojas-1080x1920_97c511ba72.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-16.png",
+        "cert_desc": null,
+        "synopsis_short": "Aukštų statymų pokerio pasaulyje milijardierius lošėjas Džekas Foley (akt. Russell Crowe) savo geriausiems vaikystės draugams dovanoja naktį, kurios jie niekada nepamirš, ir galimybę laimėti didžiules pinigų sumas, apie kokias jie niekad net nesvajojo.",
+        "info_release": "18.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "120 min.",
+        "info_age": "N-16",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": "Russell Crowe",
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/blefuotojas-poker-face/trailer",
+        "filmlink": "/filmai/blefuotojas-poker-face",
+        "timeslink": "/filmai/blefuotojas-poker-face/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Trileris",
+              "url": "/rusis/trileris",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "1",
+        "rank_value": "10",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "PREMJERA",
+              "class": "promo-label--promo",
+              "short_name": "PREMJERA"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-18T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "19",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3475",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "dc-superaugintiniu-lyga-dc-league-of-super-pets",
+        "title": "DC superaugintinių lyga (DC league of super-pets)",
+        "id": "3263",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/N0FDNEQ5/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/dcleagueosp-led-1080x1920_ea78bd8ae8.jpg",
+        "cert_image": "/-/media/images/certificates/lt-v.png",
+        "cert_desc": null,
+        "synopsis_short": "Supermenas, Betmenas ir kiti superherojai pasaulį gelbėjo ne vieną ir ne du kartus – tai žino visi. Šiek tiek mažiau žinomas faktas, kad beveik visi superherojai namuose turi mielus augintinius, kurie supergaliomis ne ką tenusileidžia savo šeimininkams. Pavyzdžiui, Supermenas daugybę žygių atliko su savo skraidančiu šuneliu Kripto.",
+        "info_release": "29.07.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "100 min.",
+        "info_age": "V",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/dc-superaugintiniu-lyga-dc-league-of-super-pets/trailer",
+        "filmlink": "/filmai/dc-superaugintiniu-lyga-dc-league-of-super-pets",
+        "timeslink": "/filmai/dc-superaugintiniu-lyga-dc-league-of-super-pets/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Šeimai",
+              "url": "/rusis/seimai",
+              "highlighted": false
+            },
+            {
+              "name": "Nuotykių",
+              "url": "/rusis/nuotykiu",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "53",
+        "rank_value": "6,68",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-07-29T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "169",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3263",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "black-panther-wakanda-forever",
+        "title": "Juodoji pantera. Vakanda amžiams (BLACK PANTHER: WAKANDA FOREVER)",
+        "id": "3375",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/NUIwNzgx/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/juodoji-pantera-vakanda-amziams-1080x1920_0a32c58351.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-13.png",
+        "cert_desc": null,
+        "synopsis_short": "Ketvirtąją „Marvel“ komiksų ekranizacijos fazę užbaigsiantis „Juodosios panteros“ tęsinys „Juodoji pantera. Wakanda amžiams“. Po jaunojo Wakandos karaliaus T‘Challa, kitaip dar žinomo kaip Juodosios Panteros, mirties wakandiečiai kovoja, kad apsaugotų savo tautą nuo blogio jėgų.",
+        "info_release": "11.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "161 min.",
+        "info_age": "N-13",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": "Ryan Coogler",
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/juodoji-pantera-vakanda-amziams-black-panther-wakanda-forever/trailer",
+        "filmlink": "/filmai/juodoji-pantera-vakanda-amziams-black-panther-wakanda-forever",
+        "timeslink": "/filmai/juodoji-pantera-vakanda-amziams-black-panther-wakanda-forever/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Drama",
+              "url": "/rusis/drama",
+              "highlighted": false
+            },
+            {
+              "name": "Nuotykių",
+              "url": "/rusis/nuotykiu",
+              "highlighted": false
+            },
+            {
+              "name": "Veiksmo",
+              "url": "/rusis/veiksmo",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "26",
+        "rank_value": "7,54",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-11T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "211",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3375",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "lilas-lilas-krokodilas-lyle-lyle-crocodile",
+        "title": "Lilas, Lilas, Krokodilas (Lyle, Lyle, Crocodile)",
+        "id": "3398",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/OEFCMENF/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/lylelylecrocodile-led-1080x1920-farm-preview_c1de18179b.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-7.png",
+        "cert_desc": null,
+        "synopsis_short": "Primų šeimai persikėlus į Niujorką, jų sūnus Džošas sunkiai pritampa naujoje vietoje. Tačiau tuomet draugų neturinčio berniuko gyvenimą pakeičia nuostabus atradimas: savo naujojo namo palėpėje jis aptinka krokodilą!",
+        "info_release": "04.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "106 min.",
+        "info_age": "N-7",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": "Will Speck",
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/lilas-lilas-krokodilas-lyle-lyle-crocodile/trailer",
+        "filmlink": "/filmai/lilas-lilas-krokodilas-lyle-lyle-crocodile",
+        "timeslink": "/filmai/lilas-lilas-krokodilas-lyle-lyle-crocodile/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Šeimai",
+              "url": "/rusis/seimai",
+              "highlighted": false
+            },
+            {
+              "name": "Komedija",
+              "url": "/rusis/komedija",
+              "highlighted": false
+            },
+            {
+              "name": "Muzikinis",
+              "url": "/rusis/muzikinis",
+              "highlighted": false
+            },
+            {
+              "name": "Nuotykių",
+              "url": "/rusis/nuotykiu",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "15",
+        "rank_value": "5,87",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-04T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "119",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3398",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "liudesio-trikampis-triangle-of-sadness",
+        "title": "Liūdesio trikampis (Triangle of Sadness)",
+        "id": "3463",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/MDdEQjUx/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/liudesio-trikampis-plakatas-mazas_bc5621b59e.jpeg",
+        "cert_image": "/-/media/images/certificates/lt_n-13.png",
+        "cert_desc": null,
+        "synopsis_short": "Nepadoriai juokingoje antrą Auksinę palmės šakelę Rubenui Östlundui pelniusioje satyroje (pirmoji skirta už „Kvadratą“) režisierius tai, kas instagramiška, paverčia pragariška. Į glamūrinį kruizą susirenka uberturtuoliai, gražuolė manekenė ir jos deimantinis vaikinas.",
+        "info_release": "21.10.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "147 min.",
+        "info_age": "N-13",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/liudesio-trikampis-triangle-of-sadness/trailer",
+        "filmlink": "/filmai/liudesio-trikampis-triangle-of-sadness",
+        "timeslink": "/filmai/liudesio-trikampis-triangle-of-sadness/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Drama",
+              "url": "/rusis/drama",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "19",
+        "rank_value": "7,26",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-10-21T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "31",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3463",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "meniu-the-menu",
+        "title": "Meniu (The Menu)",
+        "id": "3380",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/Mjc4OEUx/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/meniu-1080x1920_7db7aca07f.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-16.png",
+        "cert_desc": null,
+        "synopsis_short": "Ar norėtumėte jaukiai praleisti laiką pasakiškoje aplinkoje ir paragauti dar neatrastų patiekalų? Net jei tai kainuotų gyvybę? Jauna pora (akt. Anya Taylor-Joy ir Nicholas Hoult) keliauja į atokią salą pavalgyti išskirtiniame restorane, kuriame šefas (akt. Ralph Fiennes) parengė gausų meniu su itin šokiruojančiais netikėtumais.",
+        "info_release": "18.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "106 min.",
+        "info_age": "N-16",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": "Mark Mylod",
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/meniu-the-menu/trailer",
+        "filmlink": "/filmai/meniu-the-menu",
+        "timeslink": "/filmai/meniu-the-menu/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Siaubo",
+              "url": "/rusis/siaubo",
+              "highlighted": false
+            },
+            {
+              "name": "Komedija",
+              "url": "/rusis/komedija",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "0",
+        "rank_value": "0",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "PREMJERA",
+              "class": "promo-label--promo",
+              "short_name": "PREMJERA"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-18T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "67",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3380",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "mija-ir-as-sentopijos-didvyre-mia-and-me-the-hero-of-centopia",
+        "title": "Mija ir aš: Sentopijos didvyrė (Mia and me – The Hero of Centopia)",
+        "id": "3470",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/MjNEMzkx/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/sentopijos-didvyre-1080x1920-without-main-logo-lit_e9699d35cb.jpg",
+        "cert_image": "/-/media/images/certificates/lt-v.png",
+        "cert_desc": null,
+        "synopsis_short": "Mija pakviečiama atgal į fantastinį vienaragių pasaulį – Sentopiją. Ten ji sutinka Lotoso salos elfą Iko, kuriam verkiant reikia jos pagalbos. Toksoras, baisus, rupūžę primenantis blogiukas bando užimti salą, juodosios magijos burtais visus gyventojus paversdamas paklusniais vergais.",
+        "info_release": "11.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "80 min.",
+        "info_age": "V",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/mija-ir-as-sentopijos-didvyre-mia-and-me-the-hero-of-centopia/trailer",
+        "filmlink": "/filmai/mija-ir-as-sentopijos-didvyre-mia-and-me-the-hero-of-centopia",
+        "timeslink": "/filmai/mija-ir-as-sentopijos-didvyre-mia-and-me-the-hero-of-centopia/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Animacija",
+              "url": "/rusis/animacija",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "0",
+        "rank_value": "0",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-11T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "23",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3470",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "nct-dream-the-movie-in-a-dream",
+        "title": "NCT DREAM THE MOVIE : In A DREAM",
+        "id": "3478",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/MzgwQ0ZF/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/1080x1920-nct-dream_78d5d791c8.jpg",
+        "cert_image": "",
+        "cert_desc": null,
+        "synopsis_short": "Pietų Korėos pop grupė NCT DREAM pristato savo pirmąjį filmą NCT DREAM THE MOVIE: In A DREAM kino teatruose visame pasaulyje.",
+        "info_release": "30.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "120 min.",
+        "info_age": "",
+        "pegi_class": "",
+        "pegi_href": null,
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/nct-dream-the-movie-in-a-dream/trailer",
+        "filmlink": "/filmai/nct-dream-the-movie-in-a-dream",
+        "timeslink": "/filmai/nct-dream-the-movie-in-a-dream/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": true,
+        "comming_soon": false,
+        "announcement": true,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Koncertas",
+              "url": "/rusis/koncertas",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "0",
+        "rank_value": "0",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "GREITAI",
+              "class": "promo-label--promo",
+              "short_name": "GREITAI"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-30T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "115",
+        "showwantsee": true,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3478",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "piktuju-karta",
+        "title": "Piktųjų karta (The Generation of Evil)",
+        "id": "3428",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/NTIwMTY2/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/1080x1920-lcd_d14420a562.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-16.png",
+        "cert_desc": null,
+        "synopsis_short": "Viena už kitą žiauresnių žmogžudyčių serija sukrečia idilišką provincijos miestelį ir jo politinį elitą, panardindama į kruviną trisdešimties metų senumo KGB detektyvą.  Nepatogi praeitis pradeda persekioti. Ramus ir sotus gyvenimas pasibaigė.  Policijos komisaras Gintas apkaltinamas savo kolegos ir geriausio draugo nužudymu. Žiauri mirtis trenkia kaip perkūnas iš giedro dangaus, būtent tuo metu, kai Gintas paskelbia apie savo kandidatūrą mero rinkimuose.",
+        "info_release": "14.10.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "115 min.",
+        "info_age": "N-16",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/piktuju-karta-the-generation-of-evil/trailer",
+        "filmlink": "/filmai/piktuju-karta-the-generation-of-evil",
+        "timeslink": "/filmai/piktuju-karta-the-generation-of-evil/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Kriminalinis",
+              "url": "/rusis/kriminalinis",
+              "highlighted": false
+            },
+            {
+              "name": "Trileris",
+              "url": "/rusis/trileris",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "93",
+        "rank_value": "8,8",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-10-14T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "87",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3428",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "puga-prie-memelio-klaipedos-atvadavimo-saga",
+        "title": "PŪGA PRIE MĖMELIO. KLAIPĖDOS ATVADAVIMO SAGA",
+        "id": "3473",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/RTVEQ0RF/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/ppm-lcd_0f22611a91.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-7.png",
+        "cert_desc": null,
+        "synopsis_short": "Kaip atrodo įdomiausia istorijos pamoka? To, kas 1923 metų sausį vyko Klaipėdos krašte, pervertinti neįmanoma. Viena drąsiausių, sudėtingiausių, sumaniausių slaptų operacijų mūsų šalies istorijoje atgyja kino ekranuose. \r\nPrieš šimtmetį Klaipėdos krašte šeimininkavusi Prancūzija ruošiasi skelbti jį savarankiška valstybe. Ją 15 metų kontroliuotų svetimi – Tautų Sąjunga. Tai būtų pražūtis Lietuvai, likusiai be Vilniaus ir jo krašto. Ant kortos – Lietuvos ateitis ir būtinybė turėti atvirą langą į pasaulį – Klaipėdos jūrų uostą. Tuometis Ministras Pirmininkas Ernestas Galvanauskas inicijuoja įspūdingiausią slaptą karinę operaciją Lietuvos istorijoje – civiliai perrengti Ypatingos paskirties rinktinės vyrai inscenizuoja vietos gyventojų sukilimą ir perversmą.",
+        "info_release": "18.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "60 min.",
+        "info_age": "N-7",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/puga-prie-memelio-klaipedos-atvadavimo-saga/trailer",
+        "filmlink": "/filmai/puga-prie-memelio-klaipedos-atvadavimo-saga",
+        "timeslink": "/filmai/puga-prie-memelio-klaipedos-atvadavimo-saga/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Istorinis",
+              "url": "/rusis/istorinis",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "0",
+        "rank_value": "0",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "PREMJERA",
+              "class": "promo-label--promo",
+              "short_name": "PREMJERA"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-18T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "9",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3473",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "rupintojelis",
+        "title": "Rūpintojėlis (Pensive)",
+        "id": "3462",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/MzI5Q0RG/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/rupintojelis-led-1080x1920_b6d211f406.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-16.png",
+        "cert_desc": null,
+        "synopsis_short": "Mariui visada atrodė, kad aplink jį visi yra talentingi ir populiarūs, o jis pats – tiesiog paprastas, niekuo neypatingas. Jis nepritapo ir savo klasėje, tad ir į išleistuvių šventę vykti neplanavo. Bet paaiškėjus, jog klasiokų užsakyta sodyba atšaukta, Marius iš savo mamos, nekilnojamo turto agentės, nugvelbia raktus nuo kitos sodybos ir taip netikėtai tampa klasės gelbėtoju.",
+        "info_release": "04.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "82 min.",
+        "info_age": "N-16",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/rupintojelis-pensive/trailer",
+        "filmlink": "/filmai/rupintojelis-pensive",
+        "timeslink": "/filmai/rupintojelis-pensive/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Siaubo",
+              "url": "/rusis/siaubo",
+              "highlighted": false
+            },
+            {
+              "name": "Trileris",
+              "url": "/rusis/trileris",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "26",
+        "rank_value": "7,58",
+        "promo_labels": {
+          "names": [],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-04T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "48",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3462",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "skyrybos",
+        "title": "Skyrybos",
+        "id": "3450",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/OENEMzM0/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/skyrybos-lcd_3ad6ecc88f.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-16.png",
+        "cert_desc": null,
+        "synopsis_short": "SKYRYBOS – režisieriaus Manto Verbiejus komedija, kuri pakvies žiūrovą į beprotišką kelionę, kupiną juokingų atsitikimų ir smagių nesusipratimų.",
+        "info_release": "18.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "90 min.",
+        "info_age": "N-16",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/skyrybos/trailer",
+        "filmlink": "/filmai/skyrybos",
+        "timeslink": "/filmai/skyrybos/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": false,
+        "comming_soon": false,
+        "announcement": false,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Komedija",
+              "url": "/rusis/komedija",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "2",
+        "rank_value": "6,5",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "PREMJERA",
+              "class": "promo-label--promo",
+              "short_name": "PREMJERA"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-18T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "61",
+        "showwantsee": false,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3450",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      },
+      {
+        "film_page_name": "devotion",
+        "title": "Sparno broliai (Devotion)",
+        "id": "3429",
+        "image_hero": "",
+        "image_poster": "https://media.multikino.lt/thumbnails/50/rc/NjMzRDE3/eyJ0aHVtYm5haWwiOnsic2l6ZSI6WyIxMDAwMCIsIjQ3MiJdLCJtb2RlIjoiaW5zZXQifX0=/uploads/images/films_and_events/devotion-led-1080x1920_6195e04bcd.jpg",
+        "cert_image": "/-/media/images/certificates/lt_n-13.png",
+        "cert_desc": null,
+        "synopsis_short": "Veiksmo kupinas karinis filmas žiūrovą nukels į praėjusio amžiaus šeštojo dešimtmečio pradžią. Pagal tikrus įvykius sukurto filmo vienas pagrindinių herojų – juodaodis JAV laivyno pilotas Džesis Braunas (aktorius Jonathan‘as Majors‘as ). Tuo metu, kai pietinėse Amerikos valstijose juodaodžiams dar nebuvo leidžiama mokytis, valgyti ar netgi važiuoti tuo pačiu autobusu su baltaisiais, Džesio gyvenimas, švelniai tariant, nebuvo lengvas. Tačiau nepalenkiamos valios, užsispyrimo ir darbo dėka vaikinas užsitarnavo savo kolegų bei viršininkų pagarbą ir pamažu tapo vienu geriausių JAV laivyno pilotų....",
+        "info_release": "25.11.2022",
+        "info_runningtime_visible": true,
+        "info_runningtime": "138 min.",
+        "info_age": "N-13",
+        "pegi_class": "",
+        "pegi_href": "/informationen/fsk-und-jugendschutz",
+        "info_director": null,
+        "info_cast": null,
+        "availablecopy": "REZERVUOTI / PIRKTI BILIETĄ",
+        "videolink": "/filmai/sparno-broliai-devotion/trailer",
+        "filmlink": "/filmai/sparno-broliai-devotion",
+        "timeslink": "/filmai/sparno-broliai-devotion/times",
+        "video": "",
+        "hidden": false,
+        "coming_soon": true,
+        "comming_soon": false,
+        "announcement": true,
+        "virtual_reality": false,
+        "young_adult_tag": false,
+        "genres": {
+          "names": [
+            {
+              "name": "Drama",
+              "url": "/rusis/drama",
+              "highlighted": false
+            },
+            {
+              "name": "Karinis",
+              "url": "/rusis/karinis",
+              "highlighted": false
+            },
+            {
+              "name": "Veiksmo",
+              "url": "/rusis/veiksmo",
+              "highlighted": false
+            }
+          ],
+          "active": true
+        },
+        "tags": {
+          "names": [],
+          "active": true
+        },
+        "categories": {
+          "names": [],
+          "active": true
+        },
+        "showing_type": {
+          "name": "Filmai",
+          "active": true
+        },
+        "rank_votes": "0",
+        "rank_value": "0",
+        "promo_labels": {
+          "names": [
+            {
+              "name": "GREITAI",
+              "class": "promo-label--promo",
+              "short_name": "GREITAI"
+            }
+          ],
+          "position": "",
+          "isborder": false
+        },
+        "show_showings": false,
+        "ReleaseDate": "2022-11-25T00:00:00Z",
+        "type": "Film Details",
+        "wantsee": "15",
+        "showwantsee": true,
+        "newsletterurl": "/FilmAndEvent/WantToSeeSubscribe/3429",
+        "always_in_QB": false,
+        "priority_value": 100,
+        "available3D": false,
+        "selected3D": false,
+        "distributor": null,
+        "title_synonyms": [],
+        "happy": false,
+        "mobile_poster_image": ""
+      }
+    ]
+  }
